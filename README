@@ -1,0 +1,6 @@
+This is a dummy project to test the GTK# UI compatibility instead of using WPF 
+for multi-platform .NET desktop projects. I have used the .NET clone for linux 
+called MONO project and used their IDE in ubuntu to create a simple password 
+manager application.
+
+For references you can email : sushant@sukh.us
